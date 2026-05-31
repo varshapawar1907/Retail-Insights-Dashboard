@@ -1,4 +1,4 @@
-#Retail Insights Dashboard | Power BI
+# Retail Insights Dashboard | Power BI
 ## Project Overview
 
 The Retail Insights Dashboard is an interactive Power BI solution designed to help retail businesses analyze store performance, evaluate promotional effectiveness, and monitor product/category performance. The dashboard provides actionable insights into sales trends, promotional impact, and product contribution, enabling data-driven business decisions.
